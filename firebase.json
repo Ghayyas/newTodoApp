@@ -1,0 +1,9 @@
+{
+  "firebase": "todosmaterial1",
+  "public": "public",
+  "ignore": [
+    "firebase.json",
+    "**/.*"
+
+  ]
+}
